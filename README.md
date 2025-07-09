@@ -145,9 +145,7 @@ Fix: Ensure your font supports chess symbols (e.g., install ttf-symbola)
 
 Problem: Wrong workspaces shown
 Fix: Verify multi-monitor setup in Sway config
-📜 License
 
-MIT License - See LICENSE for details
 Suggested GitHub Repo Structure
 text
 
