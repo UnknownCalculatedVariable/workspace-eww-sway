@@ -146,24 +146,3 @@ Fix: Ensure your font supports chess symbols (e.g., install ttf-symbola)
 Problem: Wrong workspaces shown
 Fix: Verify multi-monitor setup in Sway config
 
-Suggested GitHub Repo Structure
-text
-
-sway-chess-workspaces/
-├── screenshots/
-│   └── preview.png
-├── LICENSE
-├── README.md
-└── sway-workspaces.sh
-
-This README provides:
-
-    Clear installation instructions
-
-    Visual customization guide
-
-    Technical documentation
-
-    Troubleshooting section
-
-    Ready-to-use code blocks
